@@ -1,0 +1,8 @@
+Bin/testvideo1_48000_2_f32le.pcm
+Bin/testvideo1_yuv420p_640x480.yuv
+build-01_sdl_basic-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/
+build-02_sdl_window-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/
+build-03_sdl_event-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/
+build-04_sdl_thread-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/
+build-05_sdl_pcm-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/
+build-06_sdl_yuv-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/
